@@ -1,2 +1,2 @@
 # ilxq.github.io
-my page
+我的简历
